@@ -61,7 +61,7 @@ See the [LICENSE](./LICENSE) file for full terms.
 ## 📄 Citation
 If you use this code or design in your research, please cite the original paper as:
 
-> VoHead Research Team. (2025). *VoHead: A multimodal human–computer interaction system for accessible gaming.*  
+> "Edit Later."VoHead Research Team. (2025). *VoHead: A multimodal human–computer interaction system for accessible gaming.*  
 > Ege University, Türkiye.
 
 ---
